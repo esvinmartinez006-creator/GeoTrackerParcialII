@@ -1,0 +1,5 @@
+# Copia estas propiedades a local.properties en la raíz del proyecto, sin borrar sdk.dir
+# MAPS_API_KEY=TU_CLAVE_DE_GOOGLE_MAPS
+# API_BASE_URL=https://tu-servidor.com/
+# Para emulador y API en la computadora: API_BASE_URL=http://10.0.2.2:3000/
+# Para dispositivo real usa una URL pública HTTPS. Mantén la barra final /.
